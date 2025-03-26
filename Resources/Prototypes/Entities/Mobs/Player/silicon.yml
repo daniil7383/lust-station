@@ -79,6 +79,10 @@
     - sprite: Mobs/Silicon/station_ai.rsi
       state: default
   - type: ShowJobIcons
+  - type: ShowHealthBars
+   damageContainers:
+   - Inorganic # Sunrise-Edit
+   - Silicon # Sunrise-Edit
   - type: Speech # Sunrise-Edit
     speechVerb: Robotic # Sunrise-Edit
 
